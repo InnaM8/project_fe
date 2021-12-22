@@ -50,9 +50,9 @@ a:hover {
   margin: 0 15px;
 }
 .fact:hover {
-  transform: scale(1.1);
-  transform-origin: 0 0;
-  margin-bottom: 25px;
+  outline-width: 0.2;
+  outline-color: rgb(80, 73, 73);
+  outline-style: solid;
 }
 .icon {
   height: 200px;
